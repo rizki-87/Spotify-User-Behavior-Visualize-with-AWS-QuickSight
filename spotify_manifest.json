@@ -1,0 +1,15 @@
+{
+    "fileLocations": [
+      {
+        "URIs": [
+          "s3://spotify-user-behavior-project/Spotify_data.csv"
+        ]
+      }
+    ],
+    "globalUploadSettings": {
+      "format": "CSV",
+      "delimiter": ",",
+      "textqualifier": "'",
+      "containsHeader": "true"
+    }
+  }
